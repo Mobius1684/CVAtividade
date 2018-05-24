@@ -39,6 +39,7 @@
             <strong>Curso de Análise e Desenvolvimento de Sistemas&nbsp;&nbsp;&nbsp;</strong>
             <br>
             <strong>Desenvolvido por: Danilo César&nbsp;&nbsp;&nbsp;</strong>
+			<strong>Fonte de Template: https://startbootstrap.com/template-overviews/resume/&nbsp;&nbsp;&nbsp;</strong>
             </div>
     </div>
     <strong>
